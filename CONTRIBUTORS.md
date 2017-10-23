@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Arinna](https://github.com/ArinnaBee/)
+- Place: Virginia, USA
+- Bio: Spooky blogger forever craving pizza
+- GitHub: [ArinnaBee](https://github.com/ArinnaBee/)
